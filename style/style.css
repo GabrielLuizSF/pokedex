@@ -39,7 +39,7 @@ main {
   color: rgb(232,2,26);
   top: 54.5%;
   right: 27%;
-  font-size: clamp(8px, 5vw, 25px);
+  font-size: clamp(5px, 5vw, 20px);
 }
 
 .pokemon_name {
